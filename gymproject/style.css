@@ -1,0 +1,61 @@
+.sidebar{
+    position: fixed;
+    height:100%;
+    width:300px;
+    z-index:1;
+    top:0;
+    left:0;
+    background-color: black;
+    overflow-x: hidden;
+    padding-top: 16px;
+}
+
+.sidebar a{
+    text-decoration: none;
+    padding: 6px 8px 6px 16px;
+    font-size: 20px;
+    color:aliceblue;
+    display: block;
+    padding-top: 50px;
+    border:none;
+    background: none;
+    width:100%;
+    outline:none;
+}
+
+.sidebar a:hover{
+    color: gray;
+}
+
+header{
+    color: white;
+    font-weight: 900;
+    font-size: xx-large;
+    padding-left: 20px;
+}
+
+.title2{
+    color:cyan;
+}
+.title1{
+    color: red;
+}
+
+.dropdown-btn{
+    color:aliceblue;
+    background-color: black;
+    cursor: pointer;
+    padding: 6px 8px 6px 16px;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+.dropdown:hover{
+    color: gray;
+}
+.dropdown-container{
+    display: none;
+    background-color:black ;
+    padding-right: 8px;
+}
+

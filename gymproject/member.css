@@ -1,0 +1,30 @@
+.nav{
+    background-color: aliceblue;
+    width: 100%;
+}
+
+.subtitle i {
+    padding-left: 30px;
+    color: gray;
+}
+.subtitle a{
+    text-decoration: none;
+    padding-left: 5px;
+    color: black;
+}
+.header{
+    padding-top: 30px;
+    padding-left: 40px;
+}
+.div1{
+    margin:70px;
+}
+
+.form{
+    padding-top: 30px;
+}
+
+#a{
+    text-decoration: black;
+    background-color: rgb(122, 145, 146);
+}
